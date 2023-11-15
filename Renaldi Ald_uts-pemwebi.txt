@@ -1,0 +1,34 @@
+NAMA: Renaldi Aldi
+NIM: 22416255201078
+MATA KULIAH : Pemograman Web
+
+SUB-CPMK-2
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi? 
+(jelaskan dengan bahasa yang mudah dimengerti, bukan secara 
+harfiah/istilah)
+
+SUB-CPMK-2
+2. 1. Sebutkan tema proyek yang sedang digarap!
+   2. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan 
+      jobdesk dari masing-masing anggota!
+   3. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan 
+      client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan 
+      bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+
+SUB-CPMK-3
+3. Pada source code berikut: https://github.com/ysfwicaksana/webprogramming-course/tree/pertemuan-6
+Terdapat file show.php di root proyek yang menghasilkan tabel data produk, 
+Didalam nya terdapat fitur “EDIT” dan “HAPUS”. Buatkan fitur “EDIT” dan 
+“HAPUS” dan unggah source code di elearning/BOC!
+
+JAWABAN UTS 
+
+1. Framework dalam pengembangan aplikasi adalah seperti kerangka atau struktur kerja yang telah di buat sebelumnya untuk membantu programmer dalam membangun aplikasi komputer atau perangkat lunak.
+
+framework bisa di ibaratkan membangun rumah,kerangka atau pondasi agar bangunan bisa kokoh dan sesuai rencana, begitu pula dengan aplikasi framework.
+
+2. 1. apotek
+   2. Renaldi aldi : coding
+      tyo sigit pramulyan :design
+      Sadam Daffa Ramadhan : analsyt laporan
+   3. Hasil wawancara kelompok kami pada client, setelah kami mewawancarai client kami sedikit mendapatkan solusi untuk membantu atau mempermudah system pengerjaan, permasalahan yang di dapat oleh client terdapat pada beberapa system pengerjaan yang manual yaitu masih menginput stock barang (obat) masih secara manual dan kami berunding dengan client untuk mencari solusi permasalah tersebut dan kelompok kami sepakat untunk membuat system program untuk client kami ini
